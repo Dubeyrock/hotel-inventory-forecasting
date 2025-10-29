@@ -1,0 +1,9 @@
+{
+  "total_items": 96,
+  "total_par_level": 87344.05,
+  "total_safety_stock": 29455.65,
+  "inventory_reduction_ml": -811.0900000000111,
+  "inventory_reduction_percent": -0.9373191440579534,
+  "high_risk_items_count": 3,
+  "high_variability_items_count": 43
+}
