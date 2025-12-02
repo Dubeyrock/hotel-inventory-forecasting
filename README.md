@@ -39,3 +39,8 @@ Hotel chains face significant losses due to:
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/af0f9c86-1a3e-463a-b35c-8d729780b122" />
 
+
+
+## Deploy:
+
+https://dubeyrock-hotel-inventory-forecasting-app-oovabl.streamlit.app/
